@@ -1,0 +1,5 @@
+aiohttp==3.5.4
+pyTelegramBotAPI==3.6.6
+sentry-sdk==0.4.3
+sjcl==0.2.1
+
